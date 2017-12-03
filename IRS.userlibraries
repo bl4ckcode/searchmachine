@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="org.json:json:20170516">
+    <archive path="C:/Users/carlo/IdeaProjects/IRS/lib/json-20170516.jar" />
+  </library>
+  <library name="org.jsoup:jsoup:1.10.3">
+    <archive path="C:/Users/carlo/IdeaProjects/IRS/lib/jsoup-1.10.3.jar" />
+  </library>
+</eclipse-userlibraries>
+
